@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunDatAnalyst
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently practicing SQL projects and Data Vosualization Projects
+- 🌱 I’m currently practicing SQL projects and Data Visualization Projects
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me arun.arumathi@gmail.com
 
