@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArunDatAnalyst
+- 👋 Hi, I’m @ArunDataAnalyst
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently practicing SQL projects and Data Visualization Projects
 - 💞️ I’m looking to collaborate on Data Analysis Projects
